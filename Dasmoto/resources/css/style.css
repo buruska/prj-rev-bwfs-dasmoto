@@ -1,0 +1,32 @@
+h1 {
+  font-family: Helvetica;
+  font-size: 100px;
+  font-weight: bold;
+  color: khaki;
+  text-align: center;
+  background-image: url(../pattern.jpeg);
+}
+
+.products strong {
+  font-family: Helvetica;
+  color: blue;
+}
+
+.products h2 {
+  font-family: Helvetica;
+  font-size: 32px;
+  font-weight: bold;
+  color: white;
+}
+
+#green {
+  background-color: mediumspringgreen;
+}
+
+#red {
+  background-color: lightcoral;
+}
+
+#blue {
+  background-color: skyblue;
+}
